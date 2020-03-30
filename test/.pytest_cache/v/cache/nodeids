@@ -1,0 +1,11 @@
+[
+  "core_test.py::test_genomewrt_noaddl", 
+  "core_test.py::test_5to3wrt_noaddl", 
+  "core_test.py::test_genomewrt_addl", 
+  "core_test.py::test_5to3wrt_addl", 
+  "core_test.py::test_pos_5to3wrt_addl", 
+  "ntmath_test.py::test_rolling_slope_5prime_shape", 
+  "ntmath_test.py::test_rolling_slope_5prime_value", 
+  "ntmath_test.py::test_rolling_slope_3prime_shape", 
+  "ntmath_test.py::test_rolling_slope_3prime_value"
+]
